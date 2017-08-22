@@ -1,0 +1,15 @@
+
+public class Quadrilatero extends Poligono {
+	
+	private double area;
+	
+	public Quadrilatero(double base, double altura) {
+		super(base, altura);
+	}
+
+	@Override
+	public double area() {
+		area = getBase() * getAltura();
+		return area;
+	}
+}

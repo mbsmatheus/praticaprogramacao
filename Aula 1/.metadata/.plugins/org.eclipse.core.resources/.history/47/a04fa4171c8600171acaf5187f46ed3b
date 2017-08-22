@@ -1,0 +1,11 @@
+
+public class Losangulo extends Quadrilatero {
+	
+	public Losangulo(double base, double altura) {
+		super(base, altura);
+	}
+
+	public double area() {
+		return area();
+	}
+}

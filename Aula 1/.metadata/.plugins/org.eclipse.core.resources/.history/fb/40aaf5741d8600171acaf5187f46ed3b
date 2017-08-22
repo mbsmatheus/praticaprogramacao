@@ -1,0 +1,21 @@
+
+public class Losangulo{
+	
+	Quadrilatero quadrilatero;
+	
+	public Losangulo(Quadrilatero quadrilatero) {
+		 this.quadrilatero = quadrilatero;
+	}
+	
+	public Losangulo() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Losangulo(int altura, int base) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public double area() {
+		return area();
+	}
+}

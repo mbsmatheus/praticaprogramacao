@@ -1,0 +1,11 @@
+
+public class Losangulo {
+	
+	public Losangulo(double base, double altura, double area) {
+		super(base, altura, area);
+	}
+
+	public double area() {
+		return area();
+	}
+}

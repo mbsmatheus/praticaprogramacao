@@ -1,0 +1,22 @@
+
+public class Circulo extends Figura {
+	
+	private double area;
+	
+	public Circulo (double area) {
+		this.area = area;
+	}
+	
+	public void setArea(double area) {
+		this.area = area;
+	}
+
+
+	@Override
+	public double area() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	
+}

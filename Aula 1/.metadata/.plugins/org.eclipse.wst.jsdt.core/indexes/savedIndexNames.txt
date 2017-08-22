@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/matheus/Área de Trabalho/Ciẽncias da Computação/Práticas de Programação/Aula 1/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1115921594.index
+2199244693.index
+1376534773.index
+2807345094.index
+2844940744.index
+271421717.index

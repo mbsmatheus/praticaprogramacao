@@ -1,0 +1,9 @@
+9
+public class Triangulo extends Poligono {
+	private double area;
+	
+	@Override
+	public double area() {
+		area = getBase()
+	}
+}

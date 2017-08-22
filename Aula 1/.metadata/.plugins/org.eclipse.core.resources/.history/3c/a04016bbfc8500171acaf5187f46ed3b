@@ -1,0 +1,43 @@
+
+public class Circulo extends Figura {
+	
+	private int raio;
+	private double pi = Math.PI;
+	private double area;
+	
+	public Circulo (int raio, double pi, double area) {
+		this.raio = raio;
+		this.pi = pi;
+		this.area = area;
+	}
+	
+	public void setArea(double area) {
+		this.area = area;
+	}
+
+	public int getRaio() {
+		return raio;
+	}
+
+	
+
+	public double getPi() {
+		return pi;
+	}
+
+	public void setPi(double pi) {
+		this.pi = pi;
+	}
+	
+	public void setRaio(int raio) {
+		this.raio = raio;
+	}
+	
+	@Override
+	public double area() {
+		area = 
+	}
+
+	
+	
+}

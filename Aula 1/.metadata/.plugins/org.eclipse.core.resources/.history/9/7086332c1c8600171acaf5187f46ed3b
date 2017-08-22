@@ -1,0 +1,12 @@
+
+public class Losangulo{
+	
+	
+	
+	public Losangulo() {
+	}
+
+	public double area() {
+		return area();
+	}
+}

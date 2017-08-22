@@ -1,0 +1,13 @@
+
+public class Quadrado extends Quadrilatero {
+	
+
+	public Quadrado(double base, double altura) {
+		super(base, altura);
+	}
+
+	public double area() {
+		return area();
+	}
+	
+}

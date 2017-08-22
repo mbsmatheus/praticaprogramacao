@@ -1,0 +1,22 @@
+
+public class Quadrado{
+	
+
+	Quadrilatero quadrilatero;
+	
+	public Quadrado(Quadrilatero quadrilatero) {
+		 this.quadrilatero = quadrilatero;
+	}
+
+	public double area() {
+		return area();
+	}
+	
+	//@Override
+	//public double diagonal() {
+	//	return ((getBase() ^ 2) * (getAltura() ^ 2));
+	//}
+	
+	
+	
+}

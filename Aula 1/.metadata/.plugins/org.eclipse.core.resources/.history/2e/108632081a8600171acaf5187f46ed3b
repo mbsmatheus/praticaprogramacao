@@ -1,0 +1,16 @@
+
+public class Quadrado extends Quadrilatero implements Diagonal{
+	
+
+	public Quadrado(double base, double altura) {
+		super(base, altura);
+	}
+
+	public double area() {
+		return area();
+	}
+	
+	@Override
+	
+	
+}

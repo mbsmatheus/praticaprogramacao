@@ -1,0 +1,21 @@
+
+public class Quadrado extends Quadrilatero{
+	
+
+	public Quadrado(double base, double altura = base) {
+		super(base, altura);
+	}
+    
+	@Override
+	public double area() {
+		return areaQuadrilatero();
+	}
+	
+	//@Override
+	//public double diagonal() {
+	//	return ((getBase() ^ 2) * (getAltura() ^ 2));
+	//}
+	
+	
+	
+}

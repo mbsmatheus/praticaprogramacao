@@ -1,0 +1,13 @@
+
+public class Losangulo{
+	
+	Quadrilatero quadrilatero;
+	
+	public Losangulo(Quadrilatero quadrilatero) {
+		Quadrilatero quadrilatero;
+	}
+
+	public double area() {
+		return area();
+	}
+}

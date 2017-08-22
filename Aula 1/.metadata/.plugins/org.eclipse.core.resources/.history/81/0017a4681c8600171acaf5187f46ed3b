@@ -1,0 +1,13 @@
+
+public class Retangulo extends Quadrilatero {
+	
+	Quadrilatero quadrilatero;
+	
+	public Losangulo(Quadrilatero quadrilatero) {
+		 this.quadrilatero = quadrilatero;
+	}
+
+	public double area() {
+		return area();
+	}
+}

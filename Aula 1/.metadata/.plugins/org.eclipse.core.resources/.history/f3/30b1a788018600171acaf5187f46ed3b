@@ -1,0 +1,16 @@
+
+public class Quadrilatero extends Poligono {
+	public public Quadrilatero() {
+		// TODO Auto-generated constructor stub
+	}(double base, double altura) {
+		super(base, altura);
+	}
+
+	private double area;
+	
+	@Override
+	public double area() {
+		area = (getBase() * getAltura()) / 2;
+		return area;
+	}
+}

@@ -1,0 +1,17 @@
+
+public class Retangulo extends Quadrilatero implements Diagonal {
+	
+	public Retangulo(double base, double altura) {
+		super(base, altura);
+	}
+	
+	@Override
+	public double area() {
+		return areaQuadrilatero();
+	}
+	
+	@Override
+	public double diagonal()(
+			return 0;
+	)
+}
